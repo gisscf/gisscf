@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 **sunchaofeng/sunchaofeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Education
+- [Fujian Normal University](https://geo.fjnu.edu.cn/main.htm)
 
 Here are some ideas to get you started:
 - 😊😊😊😊😊
